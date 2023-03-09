@@ -190,7 +190,7 @@ img {
   text-align: center;
 }
 
-.overlay {
+.hero.overlay {
   max-width: 1440px;
   height: 600px;
   margin-left: auto;
