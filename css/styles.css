@@ -956,6 +956,7 @@ img {
   height: 8px;
   opacity: 0;
   visibility: hidden;
+  display: none;
   transition: opacity var(--transition-250-cubic);
 }
 
@@ -970,6 +971,7 @@ img {
   height: 8px;
   opacity: 1;
   visibility: visible;
+  display: inline;
 }
 
 .modal-form-checkbox:focus
